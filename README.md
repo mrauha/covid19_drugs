@@ -4,6 +4,8 @@
 
 I'm doing some studies on small-molecule drugs for COVID-19. I'll report some of my findings here.
 
+![](https://i.creativecommons.org/p/zero/1.0/88x31.png)
+
 ## Log
 
 - 18.3.20
