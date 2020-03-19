@@ -17,24 +17,22 @@ I'm doing some studies on small-molecule drugs for COVID-19. I'll report some of
     - The similar molecules for each antiviral are in similar_mols.tar.gz, similar_mols/<antiviral_name>.sims. 
     - The code is hacky & uncommented, will clean later on
 
-![Baricitinib_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Baricitinib.png) ![Baricitinib_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Baricitinib_sim.png)
+![Lopinavir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Lopinavir_sim.png) ![Lopinavir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Lopinavir.png)
 
-![Lopinavir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Lopinavir.png) ![Lopinavir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Lopinavir_sim.png)
+![Ritonavir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Ritonavir_sim.png) ![Ritonavir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Ritonavir.png)
 
-![Ritonavir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Ritonavir.png) ![Ritonavir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Ritonavir_sim.png)
+![Darunavir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Darunavir_sim.png) ![Darunavir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Darunavir.png)
 
-![Darunavir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Darunavir.png) ![Darunavir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Darunavir_sim.png)
+![Favipiravir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Favipiravir_sim.png) ![Favipiravir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Favipiravir.png)
 
-![Favipiravir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Favipiravir.png) ![Favipiravir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Favipiravir_sim.png)
+![Remdesivir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Remdesivir_sim.png) ![Remdesivir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Remdesivir.png)
 
-![Remdesivir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Remdesivir.png) ![Remdesivir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Remdesivir_sim.png)
+![Ribavirin_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Ribavirin_sim.png) ![Ribavirin_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Ribavirin.png)
 
-![Ribavirin_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Ribavirin.png) ![Ribavirin_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Ribavirin_sim.png)
+![Galidesivir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Galidesivir_sim.png) ![Galidesivir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Galidesivir.png)
 
-![Galidesivir_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Galidesivir.png) ![Galidesivir_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Galidesivir_sim.png)
+![Arbidol_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Arbidol_sim.png) ![Arbidol_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Arbidol.png)
 
-![Arbidol_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Arbidol.png) ![Arbidol_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Arbidol_sim.png)
+![Chloroquine_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Chloroquine_sim.png) ![Chloroquine_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Chloroquine.png)
 
-![Chloroquine_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Chloroquine.png) ![Chloroquine_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Chloroquine_sim.png)
-
-![Nitazoxanide_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Nitazoxanide.png) ![Nitazoxanide_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Nitazoxanide_sim.png)
+![Nitazoxanide_dist](https://github.com/mrauha/covid19_drugs/blob/master/images/Nitazoxanide_sim.png) ![Nitazoxanide_mol](https://github.com/mrauha/covid19_drugs/blob/master/images/Nitazoxanide.png)
